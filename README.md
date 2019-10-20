@@ -37,3 +37,5 @@ Chrome allows you to set your own key binding for every extension. See https://g
 # Thanks to
 
 Big thanks goes to [ardcore](https://github.com/ardcore) and his initial version of open sourced repo of [chrome-better-bookmark](https://github.com/ardcore/chrome-better-bookmark)s.
+
+The evolution of development and the pull request can be found [here](https://github.com/ardcore/chrome-better-bookmark/pull/6).
