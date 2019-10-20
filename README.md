@@ -1,8 +1,8 @@
 # Tree First Bookmarks
 
-### This fork of <a href="https://github.com/ardcore/chrome-better-bookmark">"Better Bookmark"</a> is heavily optimised for people got used to the hierarchical folders' structure in their bookmarks and wants to stick to it having tons of (organised) folders.
+### This fork of <a href="https://github.com/ardcore/chrome-better-bookmark">"Better Bookmark"</a> is heavily optimised for people got used to the hierarchy in their bookmarks and for those who wants to easily find the right folder among tons of (unorganised) folders to save a bookmark in there.
 
-This extension _is meant for a quick classification & saving a bookmark_ into some particular folder only. It helps to filter out & find this one folder among a huge set of folders and sub-folders or to create a new folder with a desired name. It is _not meant to look for your saved bookmarks nor open any bookmark_, as this action is possible in chrome by default.
+This extension _is meant for a quick classification & saving a bookmark_ into some particular folder only. It helps to filter out & find this one folder among a huge set of folders and sub-folders or to create a new folder with a desired name. It is _not meant to look for your saved bookmarks nor open any bookmark_, as this action is possible in chrome by default. To search for bookmarks, history, or opened/closed tabs, use the [Saka](https://chrome.google.com/webstore/detail/saka/nbdfpcokndmapcollfpjdpjlabnibjdi) extension.
 
 By clicking on any radio button in the folder's list or in an opened sub-tree, you'll see the breadcrumb navigation with the full path to a chosen folder. After clicking on any radio button, the origin (a parent folder) is set. The sub-tree view will always display the sub-folders in this parent folder if there are any. Then, if you enter a name for a new folder in the above entry field and save it by clicking on this name, it will be placed as a sub-folder into this chosen origin. If no origin has been chosen, the default location new folders are saved to is the "Other Bookmarks" folder.
 
