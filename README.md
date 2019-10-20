@@ -27,12 +27,12 @@ Chrome allows you to set your own key binding for every extension. See https://g
 
 # TODO's
 
-[ ] Show the location of the bookmark as the full path in the breadcrumb when a user opens the extension and the page was already bookmarked
-[ ] Add options (font size and style, focus style, key bindings, sorting options, etc.)
-[ ] Add the position variants (top or bottom) of the tooltip into the extension's options
-[ ] TBD: icon should be greyed out by default, highlighted if the page is already bookmarked
-[x] Default state of the children's toggler (if a user navigates between nodes it switches back to the disabled state)
-[x] TBD: subcategory indentation
+- [ ] Show the location of the bookmark as the full path in the breadcrumb when a user opens the extension and the page was already bookmarked
+- [ ] Add options (font size and style, focus style, key bindings, sorting options, etc.)
+- [ ] Add the position variants (top or bottom) of the tooltip into the extension's options
+- [ ] TBD: icon should be greyed out by default, highlighted if the page is already bookmarked
+- [x] Default state of the children's toggler (if a user navigates between nodes it switches back to the disabled state)
+- [x] TBD: subcategory indentation
 
 # Thanks to
 
